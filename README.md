@@ -4,8 +4,8 @@
 | :---: | :--- | 
 | 名前 | 来海 くるみ |
 | 住処 | 東京都 |
-| Twitter | @walnut_pro |
-| Qiita | @walnut-pro (Contribution数 200) |
+| Twitter | [@walnut_pro] |
+| Qiita | [@walnut-pro] (Contribution数 200) |
 | TOEIC | 860 |
 
 ## 概要
@@ -68,3 +68,6 @@ https://sanlab.iit.tsukuba.ac.jp/epileptic-seizure-detection/
 
 
 https://pubmed.ncbi.nlm.nih.gov/34891894/
+
+[@walnut_pro]:https://twitter.com/walnut_pro
+[@walnut-pro]:https://qiita.com/walnut-pro

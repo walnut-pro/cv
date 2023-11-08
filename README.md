@@ -2,9 +2,9 @@
 ## 基本情報 
 | key | value |
 | :---: | :--- | 
-| 名前 | 来海 くるみ |
+| 名前 | walnut-pro |
 | 住処 | 東京都 |
-| Twitter | [@walnut_pro] |
+| Twitter | [@yoshi8__] |
 | Qiita | [@walnut-pro] (Contribution数 200) |
 | TOEIC | 860 |
 

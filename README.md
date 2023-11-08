@@ -5,7 +5,8 @@
 | 名前 | walnut-pro |
 | 住処 | 東京都 |
 | Twitter | [[@yoshi8__](https://twitter.com/yoshi8__)] |
-| Qiita | [[@yoshi8__](https://qiita.com/yoshi8__)] (Contribution数 200) |
+| Qiita | [[@yoshi8__](https://qiita.com/yoshi8__)] (Contribution数 367) |
+| 人気記事 | https://qiita.com/yoshi8__/items/0124a5a0c83c9b4e2669 |
 | TOEIC | 860 |
 
 ## 概要

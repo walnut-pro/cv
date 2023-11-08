@@ -4,13 +4,14 @@
 | :---: | :--- | 
 | 名前 | walnut-pro |
 | 住処 | 東京都 |
-| Twitter | [@yoshi8__] |
+| Twitter | [[@yoshi8__](https://twitter.com/yoshi8__)] |
 | Qiita | [@walnut-pro] (Contribution数 200) |
 | TOEIC | 860 |
 
 ## 概要
 
-- Vue.js / Nuxt.jsを用いたWebアプリケーション開発と、Java SpringBootを用いたバックエンド開発が現在の専門です。
+- Typescript / React / Nextjs / Prisma / Blitzjs / PostgreSQLを用いて、インフラからフロントまでのWebアプリケーション開発全般が現在の専門です。
+- Vue.js / Nuxt.jsを用いたWebアプリケーション開発と、Java SpringBootを用いたバックエンド開発の経験あり。
 - 大規模サービスの運用経験や、小規模サービスの新規開発フェーズに参画した経験があります。
 - 大学院では医療 x AIの領域において、神経疾患の発生予測システムの研究開発を行なっていました。脳波の信号処理や画像認識モデルのモデリングを得意としています。
 
@@ -21,7 +22,7 @@ Java | JavaScript | TypeScript | Python | R |
 ### フレームワーク等
 SpringBoot | Vue.js | Nuxt.js | Vue.js | Nuxt.js | React |  Next.js | Pytorch | TensorFlow | 
 ### RDB
-MySQL | Oracle |
+MySQL | PostgreSQL | Oracle |
 ### コンテナ
 Docker | Kubenetes |
 ### クラウド
@@ -38,6 +39,9 @@ Jenkins | Nginx | Apache | Tomcat | Kibana | Glafana | tekton | CICD | SonarCube
 - Oracle Certified Java Programmer, Silver SE 11
 
 ## 主な業務経歴
+### AIアンケートサービスのWeb開発全般【TypeScript/React/Next.js/Prisma】（2023年）
+【プロジェクト概要】アプリケーション全般の開発
+
 ### ECサイトの商品詳細画面のパフォーマンスチューニング【JavaScript/Vue.js/Nuxt.js】（2022年）
 【プロジェクト概要】商品詳細画面の表示速度の改善
 

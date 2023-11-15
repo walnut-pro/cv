@@ -42,7 +42,11 @@ Jenkins | Nginx | Apache | Tomcat | Kibana | Glafana | tekton | CICD | SonarCube
 ## 主な業務経歴
 ### AIアンケートサービスのWeb開発全般【TypeScript/React/Next.js/Prisma】（2023年）
 【プロジェクト概要】アプリケーション全般の開発
+
+#### 開発しているサービス
 [https://lp.recopo.info/](https://lp.recopo.info/)
+
+#### 企業HP
 [https://www.diningx.co.jp/](https://www.diningx.co.jp/)
 
 ### ECサイトの商品詳細画面のパフォーマンスチューニング【JavaScript/Vue.js/Nuxt.js】（2022年）

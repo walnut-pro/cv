@@ -2,8 +2,8 @@
 ## 基本情報 
 | key | value |
 | :---: | :--- | 
-| 名前 | walnut-pro |
-| 住処 | 東京都 |
+| 名前 | 吉波拓夢 |
+| 住処 | 神奈川県 |
 | Twitter | [[@yoshi8__](https://twitter.com/yoshi8__)] |
 | Qiita | [[@yoshi8__](https://qiita.com/yoshi8__)] (Contribution数 367) |
 | 人気記事 | https://qiita.com/yoshi8__/items/0124a5a0c83c9b4e2669 |
@@ -42,6 +42,8 @@ Jenkins | Nginx | Apache | Tomcat | Kibana | Glafana | tekton | CICD | SonarCube
 ## 主な業務経歴
 ### AIアンケートサービスのWeb開発全般【TypeScript/React/Next.js/Prisma】（2023年）
 【プロジェクト概要】アプリケーション全般の開発
+[https://lp.recopo.info/](https://lp.recopo.info/)
+[https://www.diningx.co.jp/](https://www.diningx.co.jp/)
 
 ### ECサイトの商品詳細画面のパフォーマンスチューニング【JavaScript/Vue.js/Nuxt.js】（2022年）
 【プロジェクト概要】商品詳細画面の表示速度の改善
